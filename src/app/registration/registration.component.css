@@ -1,0 +1,30 @@
+
+
+body {
+
+  background: url("/assets/abc1.jpg");
+  background-size: 100%;
+  width: 1270px;
+  height: 595px;
+    background-size: cover;  
+    background-position: center center;
+}
+
+.form{
+  background-color: rgba(255, 255, 255,0.1);
+    margin-top: 40px;
+
+    height: 80%;
+    width: 30%;
+    margin-right: 30px;
+    font-weight: bold;
+    color:black;
+}
+
+.adjust{
+  margin-left: 45%;
+}
+.regword{
+
+color:azure;
+}

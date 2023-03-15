@@ -1,0 +1,144 @@
+body{
+background-color: rgb(197, 206, 206);
+height: 1000PX;
+}
+
+.fcrd1{
+    margin-top: 90px;
+    margin-left: 400px;
+}
+.fname{
+    margin-left: 110px;
+    margin-top: -60px;
+}
+.fstime{
+    margin-left: 210px;
+    margin-top: -60px;
+}
+.fltime{
+    margin-left: 500px;
+    margin-top: -60px;
+}
+.tttime{
+    margin-left:355px;
+    margin-top: -60px;
+
+}
+.arsize{
+    margin-top: -40px;
+   background-color: brown;
+   width: 60px;
+}
+.rupees{
+
+    margin-left:620px;
+    margin-top: -80px;
+}
+.details{
+    margin-left:140px;
+    margin-top: 50px;
+    width: 450px;
+    /* height: 10px; */ 
+    background-color: beige;
+   
+}
+.details:focus {     
+    background-color:rgb(33, 137, 52);    
+}
+.foff{
+
+margin-left: 220px;
+
+
+}
+
+
+.fcrd{
+
+    margin-top: 90px;
+    margin-left: 400px;
+   
+}
+.fimg2{
+    width: 80px;
+   
+
+}
+.fname2{
+    
+    width: 75px;
+    margin-left: 110px;
+    margin-top: -30px;
+   
+}
+.FStime1{
+
+width: 110px;
+margin-left: 210px;
+margin-top: -60px;
+
+
+}
+
+.fltime2{
+    width: 110px;
+    margin-top: -60px;
+    margin-left: 430px;
+  
+}
+.tttime2{
+    width: 65px;
+    margin-left:335px;
+    margin-top: -60px;
+
+
+}
+.arsize2{
+    width: 40px;
+    margin-top: -40px;
+    margin-left: -20px;
+ 
+}
+.rupees2{
+
+width: 110px;
+margin-left:580px;
+margin-top: -80px;
+
+
+}
+    .details2{
+        margin-left:140px;
+        margin-top: 50px;
+        width: 450px;
+        /* height: 10px; */ 
+        background-color: beige;
+       
+
+
+    }
+    .btnbook{
+        width: 120px;
+        height: 10px;
+        margin-top: -112px;
+        margin-left: 710px;
+        text-align: center;
+
+    }
+    .button4 {border-radius: 25px;
+       }
+       .button2{
+        background-color: rgba(231, 220, 220, 0.957);
+        border: none;
+        color: rgb(16, 110, 205);
+        font-weight: bold;
+        padding: 10px;
+        text-align: center;
+
+       }
+    
+
+
+
+
+     

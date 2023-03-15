@@ -1,0 +1,125 @@
+body{
+    width: 1270px;
+    height: 2100px;
+}
+.crd12{
+margin-left: 130px;
+
+}
+.pic1{
+margin-left: 130px;
+
+}
+.Offers{
+margin-left: 120px;
+color: white;
+
+}
+.Card2{
+
+    width: 250px;
+    height: 180px;
+    margin-left: 120px;
+    background-color: #FFA500;
+}
+.Card3{
+    width: 250px;
+    height: 180px;
+    margin-left: -240px;
+    background-color: rgb(222, 57, 84);
+
+}
+.Card4{
+    width: 250px;
+    height: 180px;
+    margin-top: -180px;
+    margin-left: 50px;
+    background-color: greenyellow;
+
+}
+.Card5{
+    width: 250px;
+    height: 180px;
+    margin-top: -180px;
+    margin-left: 340px;
+    background-color: rgb(194, 176, 194);
+
+}
+
+.get1{
+    margin-left: 120px;
+    color: white;
+}
+.Card6{
+    width: 250px;
+    height: 180px;
+    margin-left: 120px;
+  
+}
+.Card7{
+    width: 250px;
+    height: 180px;
+    margin-left: 400px;
+    margin-top: -180px;
+
+
+}
+.Card8{
+    width: 250px;
+    height: 180px;
+    margin-top: -180px;
+    margin-left: 680px;
+    background-color: greenyellow;
+
+}
+.Card9{
+    width: 250px;
+    height: 180px;
+    margin-top: -360px;
+    margin-left: 280px;
+  
+
+}
+.Card6B{
+
+background-color: white;
+margin-top: 30px;
+
+}
+.imgcrd6{
+
+margin-top: -30px;
+size: 100%;
+
+}
+.Know1{
+
+    margin-left: 120px;
+    color: white;
+    margin-top: 80px;
+
+}
+
+.Service{
+
+    margin-left: 400px;
+    color: white;
+    margin-top: -230px;
+}
+.Qlinks{
+    margin-left: 680px;
+    color: white;
+    margin-top: -180px;
+
+}
+.imgst{
+margin-top: 220px;
+
+}
+/* .know12{
+    width: 200px;
+    height: 400px;
+    margin-left: 120px;
+    background-color: rgb(63, 131, 213);;
+
+} */

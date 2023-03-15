@@ -1,0 +1,25 @@
+.blogin1{
+
+    background: url("/assets/bg1.jpg");
+    background-size: 100%;
+    width: 1270px;
+    height: 595px;
+      background-size: cover;  
+      background-position: center center;
+    
+}
+.form{
+ 
+    margin-top: 80px;
+    height: 80%;
+    width: 30%;
+    margin-right: 20px;
+    font-weight: bold;
+  
+
+
+}
+.login{
+    text-align: center;
+ 
+}

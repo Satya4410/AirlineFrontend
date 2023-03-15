@@ -1,0 +1,39 @@
+body {
+    background-image: url('/assets/bg1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 1295px;
+    height: 500px;
+  }
+
+  .Card2{
+
+    width: 250px;
+    height: 180px;
+    margin-left: 120px;
+    background-color: #FFA500;
+}
+.Card3{
+    width: 250px;
+    height: 180px;
+    margin-left: -240px;
+    background-color: rgb(222, 57, 84);
+
+}
+.Card4{
+    width: 250px;
+    height: 180px;
+    margin-top: -180px;
+    margin-left: 50px;
+    background-color: greenyellow;
+
+}
+.Card5{
+    width: 250px;
+    height: 180px;
+    margin-top: -180px;
+    margin-left: 340px;
+    background-color: rgb(194, 176, 194);
+
+}
